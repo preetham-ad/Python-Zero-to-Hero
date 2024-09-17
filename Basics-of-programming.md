@@ -38,6 +38,16 @@ Encoding is the process of converting data into a different format for efficient
 ## 6. Memory
 Memory in a computer is where data and instructions are stored. It’s like a workspace where the computer keeps information it needs to work with.
 
+## RAM (Random Access Memory)
+What It Is: RAM is like the computer’s short-term memory.
+Function: It temporarily holds data and programs that are currently in use, so the CPU can access them quickly.
+Example: When you’re working on a document, it’s stored in RAM. If you close the document without saving, it’s lost because RAM is cleared when you turn off the computer.
+
+## ROM (Read-Only Memory)
+What It Is: ROM is like the computer’s long-term memory.
+Function: It stores important instructions and data that the computer needs to start up and run, and it doesn’t change or get erased.
+Example: ROM contains the computer’s basic startup instructions (like the BIOS) and firmware. These instructions help the computer begin operating every time you turn it on.
+
 ## 7. Processor Memory Hierarchy
 - **Registers:** These are the fastest and smallest type of memory located inside the CPU. They hold data that the CPU is currently processing.
 - **Cache:** Cache memory is slightly larger than registers but still very fast. It stores frequently used data and instructions to speed up processing.
