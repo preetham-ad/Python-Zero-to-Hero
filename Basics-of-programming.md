@@ -28,7 +28,9 @@ This example illustrates how the CPU is involved in executing a program’s inst
 Programming is the process of creating instructions for the computer to follow. These instructions are written in a language that the computer can understand, which is called code. Just like a recipe guides you to cook a meal, code guides the computer to perform tasks.
 
 ## 4. Software (S/W)
-Software refers to programs and applications that run on a computer. Examples include web browsers, games, and word processors. It’s what allows the computer to perform different tasks beyond just processing data.
+Software is a collection of programs and apps that tells a computer what to do.
+
+Think of it like the set of instructions or tools that let the computer perform tasks, like playing games, browsing the web, or writing documents.
 
 ## 5. Encoding
 Encoding is the process of converting data into a different format for efficient storage or transmission. For example, text encoding converts characters into binary code that a computer can process.
